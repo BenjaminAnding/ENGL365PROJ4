@@ -8,7 +8,7 @@ layout: default
   {%- endif -%}
 -->
   {{ content }}
-
+<center><h1>List of Classes:</h1></center>
   {%- if site.classPages.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
     <ul class="post-list">
@@ -16,11 +16,11 @@ layout: default
       <li>
         <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
         <span class="post-meta">{{ post.date | date: date_format }}</span> -->
-        <h3>
+        <center><h3>
           <a class="post-link" href="{{ classPage.url | relative_url }}">
             {{ classPage.title | escape }}
           </a>
-        </h3>
+        </h3></center>
         {%- if site.show_excerpts -%}
           {{ classPage.excerpt }}
         {%- endif -%}
