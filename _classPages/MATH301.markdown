@@ -7,9 +7,10 @@ categories: jekyll update
 # Prereq:  
 MATH 270 or MATH 272 with a grade of “C” or better.  
   
-  
 # Description:  
-Calculus II is Calc I turned up to 11.  
+Integration, applications and modeling, infinite series. Graphing calculator required.  
   
+# Summary:  
+Calculus II is Calc I turned up to 11.  
   
 # Difficulty:  7/10  

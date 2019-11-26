@@ -7,9 +7,11 @@ categories: jekyll update
 # Prereq:  
 CMPS 250 or CMPS 260 with a grade of “C” or better. MATH 109 and MATH 110, or MATH 143 with a grade of “C” or better.  
   
+# Description: 
+Programming methods, software testing, and algorithm analysis. Construction, traversal, and modification of trees, heaps, and has tables. Sorting and searching techniques on linear structures including arrays and sequential files.  
+A student will be permitted to enroll in CMPS 260 and CMPS 261 a maximum of three times in each course.   
   
-# Description:  
+# Summary:
 The continuation of CMPS 260.  This class jumps in difficulty, as you’ll learn more advanced data structures and algorithms.  Depending on the professor, the jump can be very large, so be prepared.  
-  
 
 # Difficulty:  6/10  
