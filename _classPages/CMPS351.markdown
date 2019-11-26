@@ -12,6 +12,8 @@ Overview of computer organization. Performance evaluation, MIPS architecture, as
   
 # Summary:  
 Assembly language programming.  The course covers performance evaluation and how computers work, in addition to learning how to code in C++ and MIPS assembly.  
+  
+# Hours:  
 3 Credit hours, 3 Lecture hours.  
   
 # Difficulty:  6/10  

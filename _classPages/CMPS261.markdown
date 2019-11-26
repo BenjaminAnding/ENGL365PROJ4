@@ -13,6 +13,8 @@ A student will be permitted to enroll in CMPS 260 and CMPS 261 a maximum of thre
   
 # Summary:
 The continuation of CMPS 260.  This class jumps in difficulty, as you’ll learn more advanced data structures and algorithms.  Depending on the professor, the jump can be very large, so be prepared.  
+  
+# Hours:  
 3 Credit hours, 3 Lecture hours.  
 
 # Difficulty:  6/10  

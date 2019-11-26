@@ -12,6 +12,8 @@ Integrated software engineering principles, fundamental data structures, and alg
 
 # Summary:  
 Essentially like CMPS 150, but with Java instead of Python.  You’ll learn a few more complex ideas, but it’s still introductory.  
+  
+# Hours:  
 3 Credit hours, 3 Lecture hours.  
 
 # Difficulty:  3/10  

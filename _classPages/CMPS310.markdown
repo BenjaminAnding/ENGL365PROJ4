@@ -12,6 +12,8 @@ Technology and Humanity, Social and Political impacts of computers. Privacy and 
   
 # Summary:  
 An ethics course.  This class teaches about the ethical concerns computer scientists have to consider in the professional world, and the impact of various technologies on society.  
+  
+# Hours:  
 3 Credit hours, 3 Lecture hours.  
   
 # Difficulty:  2/10  
