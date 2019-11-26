@@ -8,27 +8,3 @@ layout: default
   {%- endif -%}
 -->
   {{ content }}
-<center><h1>List of Classes:</h1></center>
-  {%- if site.classPages.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    <ul class="post-list">
-      {%- for classPage in site.classPages -%}
-      <li>
-        <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
-        <span class="post-meta">{{ post.date | date: date_format }}</span> -->
-        <center><h3>
-          <a class="post-link" href="{{ classPage.url | relative_url }}">
-            {{ classPage.title | escape }}
-          </a>
-        </h3></center>
-        {%- if site.show_excerpts -%}
-          {{ classPage.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-<!--    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
-  {%- endif -%}
-
-</div>
