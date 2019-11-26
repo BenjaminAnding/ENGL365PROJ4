@@ -11,6 +11,6 @@ MATH 250, MATH 270, MATH 272, or MATH 251 with a grade of “C” or better.
 Algebra of n-tuples and matrices. Vector spaces with emphasis on n-tuples. Basis and dimension. Change of coordinates. Eigenvalues and eigenvectors.  
   
 # Summary:  
-In linear algebra, you’ll learn about matrices, vectors, and all the things you can do with them.  
+In linear algebra, you’ll learn about matrices, vectors, and all the things you can do with them. 3 Credit hours, 3 Lecture hours.  
   
 # Difficulty:  6/10  

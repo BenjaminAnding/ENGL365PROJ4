@@ -11,6 +11,6 @@ Minimum ACT math score of 28 or SAT MATH score of 630, MATH 109 and MATH 110 wit
 Definitions, properties, and applications of derivatives and integrals. Graphing calculator required.  
   
 # Summary:  
-Calculus I teaches you limits, derivatives, and integrals as well as their uses.  
+Calculus I teaches you limits, derivatives, and integrals as well as their uses. 4 Credit hours, 4 Lecture hours.  
     
 # Difficulty:  7/10  
