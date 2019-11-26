@@ -5,7 +5,7 @@ date:   2019-11-12 13:23:07 -0600
 categories: jekyll update
 ---
 # Prereq:  
-MATH 250, MATH 270, MATH 272, or MATH 251 with a grade of “C” or better.  
+MATH 250, [MATH 270]({{ site.url }}{{ site.baseurl }}classPages/math270), MATH 272, or MATH 251 with a grade of “C” or better.  
   
 # Description:    
 Algebra of n-tuples and matrices. Vector spaces with emphasis on n-tuples. Basis and dimension. Change of coordinates. Eigenvalues and eigenvectors.  

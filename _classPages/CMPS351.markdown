@@ -5,7 +5,7 @@ date:   2019-11-12 13:23:07 -0600
 categories: jekyll update
 ---
 # Prereq:  
-CMPS 260 and EECE 140 both with a grade of “C” or better.  
+[CMPS 260]({{ site.url }}{{ site.baseurl }}classPages/cmps260) and [EECE 140]({{ site.url }}{{ site.baseurl }}classPages/eece140) both with a grade of “C” or better.  
   
 # Description:  
 Overview of computer organization. Performance evaluation, MIPS architecture, assembly and machine language, data representation, hardware/software interface, assembly and linking process, implementation of data-path.  

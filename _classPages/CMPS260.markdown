@@ -5,7 +5,7 @@ date:   2019-11-12 13:23:07 -0600
 categories: jekyll update
 ---
 # Prereq:  
-CMPS 121 or CMPS 150 with a grade of “C” or better. MATH 109 and MATH 110, or MATH 143 with a grade of “C” or better, or a MATH ACT score of 28 or higher.  
+CMPS 121 or [CMPS 150]({{ site.url }}{{ site.baseurl }}classPages/cmps150) with a grade of “C” or better. MATH 109 and MATH 110, or MATH 143 with a grade of “C” or better, or a MATH ACT score of 28 or higher.  
   
 # Description: 
 Integrated software engineering principles, fundamental data structures, and algorithm design and development. Requirements, specifications, design, implementation and testing.  

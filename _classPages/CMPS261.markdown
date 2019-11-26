@@ -5,7 +5,7 @@ date:   2019-11-12 13:23:07 -0600
 categories: jekyll update
 ---
 # Prereq:  
-CMPS 250 or CMPS 260 with a grade of “C” or better. MATH 109 and MATH 110, or MATH 143 with a grade of “C” or better.  
+CMPS 250 or [CMPS 260]({{ site.url }}{{ site.baseurl }}classPages/cmps260) with a grade of “C” or better. MATH 109 and MATH 110, or MATH 143 with a grade of “C” or better.  
   
 # Description: 
 Programming methods, software testing, and algorithm analysis. Construction, traversal, and modification of trees, heaps, and has tables. Sorting and searching techniques on linear structures including arrays and sequential files.  

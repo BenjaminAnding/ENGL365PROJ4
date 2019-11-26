@@ -5,7 +5,7 @@ date:   2019-11-12 13:23:07 -0600
 categories: jekyll update
 ---
 # Prereq:  
-MATH 270 or MATH 272 with a grade of “C” or better.  
+[MATH 270]({{ site.url }}{{ site.baseurl }}classPages/math270) or MATH 272 with a grade of “C” or better.  
   
 # Description:  
 Integration, applications and modeling, infinite series. Graphing calculator required.  
