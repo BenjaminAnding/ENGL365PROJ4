@@ -5,6 +5,8 @@
 layout: home
 ---
 # Welcome to ULL CompSci Planner!  
-If you're a computer science student at ULL and you're confused about which courses to take when, then you're in the right place. Let's start with the flowchart of core CMPS classes:  
+If you're a computer science student at ULL and you're confused about which courses to take when, then you're in the right place. 
+Use the navigation bar on the left to find out more about each class.  
+Here's the core classes of CMPS flowchart for handy reference:  
 ![](/assets/flowchart.png)  
   
