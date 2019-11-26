@@ -11,6 +11,7 @@ CMPS 260 and EECE 140 both with a grade of “C” or better.
 Overview of computer organization. Performance evaluation, MIPS architecture, assembly and machine language, data representation, hardware/software interface, assembly and linking process, implementation of data-path.  
   
 # Summary:  
-Assembly language programming.  The course covers performance evaluation and how computers work, in addition to learning how to code in C++ and MIPS assembly. 3 Credit hours, 3 Lecture hours.  
+Assembly language programming.  The course covers performance evaluation and how computers work, in addition to learning how to code in C++ and MIPS assembly.  
+3 Credit hours, 3 Lecture hours.  
   
 # Difficulty:  6/10  

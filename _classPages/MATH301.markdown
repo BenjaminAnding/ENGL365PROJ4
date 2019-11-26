@@ -11,6 +11,9 @@ MATH 270 or MATH 272 with a grade of “C” or better.
 Integration, applications and modeling, infinite series. Graphing calculator required.  
   
 # Summary:  
-Calculus II is Calc I turned up to 11. 4 Credit hours, 4 Lecture hours.  
+Calculus II is Calc I turned up to 11.  
+  
+# Hours:  
+4 Credit hours, 4 Lecture hours.  
   
 # Difficulty:  7/10  

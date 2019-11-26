@@ -11,6 +11,9 @@ CMPS 261 and MATH 270 both with a grade of “C” or better.
 Formal logic and its applications. Proof of correctness. Sets and combinatorics. Induction, recursion, and recurrence equations. Relations, functions, and graphs: shortest path and minimal spanning tree, planarity, Eulerian paths, Hamiltonian cycles. Algebraic structures, finite-state machines, turing machines, and computational notions.  
   
 # Summary:  
-Discrete math course.  This is mostly things like logic and set theory.  The course is completely theory, no programming involved. 3 Credit hours, 3 Lecture hours.  
+Discrete math course.  This is mostly things like logic and set theory.  The course is completely theory, no programming involved.  
+  
+# Hours:  
+3 Credit hours, 3 Lecture hours.  
   
 # Difficulty:  6/10  
