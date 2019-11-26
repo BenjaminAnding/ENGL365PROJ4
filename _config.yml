@@ -22,8 +22,8 @@ title: CompSci Planner
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site for helping new ULL CMPS students schedule classes. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "ENGL365PROJ4/" # the subpath of your site, e.g. /blog
+url: "https://benjaminanding.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
