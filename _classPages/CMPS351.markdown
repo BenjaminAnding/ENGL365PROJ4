@@ -19,4 +19,4 @@ Assembly language programming.  The course covers performance evaluation and how
 # Difficulty:  6/10  
   
 # Take next: 
-[CMPS 455]({{ site.url }}{{ site.baseurl }}classPages/cmps455)
+[CMPS 430]({{ site.url }}{{ site.baseurl }}classPages/cmps430)
