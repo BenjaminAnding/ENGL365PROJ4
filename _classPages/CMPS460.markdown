@@ -11,7 +11,7 @@ categories: jekyll update
 Concepts, architecture, data models, design and implementation using entity-relationship model (or class diagram). Declaration and manipulation of data using SQL. Advanced SQL, including stored procedures, triggers, and transactions. Embedded SQL and web-based database application development, normalization, optimization, and database security.  
   
 # Summary:  
-Databases, this course along with ethics and OS are a really good way to round out oyour last semester. You will cover a lot of SQL commands and finally get to use that formal logic you learned in foundations.   
+Databases, this course along with ethics and OS are a really good way to round out your last semester. You will cover a lot of SQL commands and finally get to use that formal logic you learned in foundations.   
   
 # Hours:  
 3 Credit hours, 3 Lecture hours.  
