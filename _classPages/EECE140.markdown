@@ -7,7 +7,7 @@ categories: jekyll update
 # Prereq:  
 Placement in MATH 109 or higher level mathematics course.  
 
-# Description:  
+# Course Description:  
 Number systems, Boolean algebra, Karnaugh maps, logic gates, combinational circuit design, adders, multiplexers, flip-flops, counters, shift registers. Laboratory: Experiments with TTL logic gates, flip-flops and counters.  
   
 # Summary:  

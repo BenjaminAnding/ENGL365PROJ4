@@ -7,7 +7,7 @@ categories: jekyll update
 # Prereq:  
 Minimum ACT math score of 28 or SAT MATH score of 630, MATH 109 and MATH 110 with a grade of “C” or better, or MATH 143 with a grade of “C” or better or permission of department required.  
   
-# Description: 
+# Course Description: 
 Definitions, properties, and applications of derivatives and integrals. Graphing calculator required.  
   
 # Summary:  

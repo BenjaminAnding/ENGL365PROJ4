@@ -7,7 +7,7 @@ categories: jekyll update
 # Prereq:  
 MATH 109 or MATH 110 or MATH 143 with a grade of “C” or better
   
-# Description:  
+# Course Description:  
 Problem solving, structured design of algorithms, implementation of algorithms, and testing and debugging of programs. Data types, control structures, and abstractions. The laboratory component focuses on algorithm design and implementation.  
 
 # Summary:  
@@ -18,3 +18,6 @@ Basic introductory programming class.  You’ll learn Python, one of the simpler
   
   
 # Difficulty: 2/10  
+  
+# Take next: 
+[CMPS 260]({{ site.url }}{{ site.baseurl }}classPages/cmps260)
